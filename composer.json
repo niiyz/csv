@@ -1,0 +1,22 @@
+{
+  "name": "niiyz/csv",
+  "description": "Simple CSV Downloader",
+  "keywords": [
+    "csv",
+    "download"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://github.com/niiyz/csv",
+  "authors": [
+    {
+      "name": "niiyz",
+      "email": "yoshida@niiyz.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Niiyz\\Csv\\": "csv"
+    }
+  }
+}
