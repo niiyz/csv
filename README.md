@@ -1,4 +1,4 @@
-CSV Download
+CSV Download composer package
 ========================================
 
 See [https://packagist.org/packages/niiyz/csv](https://packagist.org/packages/niiyz/csv)
