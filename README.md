@@ -16,7 +16,7 @@ Installation / Usage
     }
     ```
 
-2. Composer install or update 
+2. Require this package in your composer.json and update composer.  
     ``` json
       composer install
     ```
